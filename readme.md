@@ -9,6 +9,6 @@ Aspiring coder exploring programming one line at a time. Passionate about learni
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ixraj&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixraj&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adityxrajj&rank_icon=github&bg_color=0d1117&text_color=b4b2b2&border_color=22272e)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityxrajj&layout=compact&bg_color=0d1117&text_color=b4b2b2&border_color=22272e)</a>
 </details>
