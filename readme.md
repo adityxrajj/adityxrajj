@@ -1,4 +1,4 @@
-# Hi 👋, I'm Raj. 
+## Hi 👋, I'm Raj. 
 
 Aspiring coder exploring programming one line at a time. Passionate about learning, building, and growing through every project. Let's code the future! 
 
